@@ -1,4 +1,4 @@
 #WRITE YOUR CODE IN THIS FILE
 def howLong(x):
-        print(int(len(x)))
+        return int(len(x))
 howLong("cow")
